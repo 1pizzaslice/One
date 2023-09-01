@@ -1,0 +1,7 @@
+SMOOTH SCROLLING
+    Attach Loco Scroll CSS
+    Attach Locomotive Scroll min js
+    Some Code from Locomotive github for js
+
+GSAP
+    Attach GSAP
